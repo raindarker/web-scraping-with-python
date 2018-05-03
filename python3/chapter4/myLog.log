@@ -1,0 +1,4 @@
+2016-06-30 14:35:55,665 ERROR    king       I'm error   
+2016-06-30 14:35:55,666 CRITICAL king       I'm critical
+2018-04-26 13:17:08,038 ERROR    vivoadmin  I'm error   
+2018-04-26 13:17:08,038 CRITICAL vivoadmin  I'm critical

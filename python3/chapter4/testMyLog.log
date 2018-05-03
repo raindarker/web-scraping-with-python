@@ -1,0 +1,4 @@
+2016-06-30 14:58:09,058 ERROR    king       I am error message
+2016-06-30 14:58:09,059 CRITICAL king       I am critical message
+2018-04-26 13:15:25,908 ERROR    vivoadmin  I am error message
+2018-04-26 13:15:25,909 CRITICAL vivoadmin  I am critical message
